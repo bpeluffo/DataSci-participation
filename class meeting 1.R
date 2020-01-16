@@ -22,7 +22,7 @@ help()
 ?mean
 times[times>30]
 times[3]
-times[-3](everything
+times[-3]
 times[3:5]
 3:5
 times[c(2, 4)]
@@ -36,3 +36,4 @@ mean(times,na.rm = TRUE)
 mtcars
 str(mtcars)
 names(mtcars)
+times
